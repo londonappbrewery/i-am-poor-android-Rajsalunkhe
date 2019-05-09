@@ -9,4 +9,13 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.londonappbrewery.iampoor.MainActivity">
 
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+    
+        android:text="I AM Lucky "
+        android:background="@color/colorPrimary"
+        android:textSize="80sp" />
 </RelativeLayout>
